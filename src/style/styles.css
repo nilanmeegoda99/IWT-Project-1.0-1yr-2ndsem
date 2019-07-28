@@ -1,0 +1,98 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
+hr{
+ border: 1px solid blue;
+  border-radius: 1px;
+ }
+body{
+
+	background-image:url(../imges/poly.jpg);
+	background-repeat: no-repeat, repeat;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr
+{
+  background-color: #a9bbf5
+}
+
+
+th {
+  background-color: #4A64E6;
+  color: white;
+}
+#jt{
+	display: block;
+  margin: 0 auto;
+  padding-top: 1cm;
+  padding-bottom: 0.3cm;
+
+}
+#wel{
+  text-align: center;	
+  margin: 0 auto;
+  
+}
+.fot
+{
+  text-align: center;	
+}
+
+.navbar{
+  display: block;
+  text-align: center;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4A64E6;
+  
+}
+
+.nal{
+  display: block;
+  float: left;
+  margin: -1px;
+  padding: 0;
+  list-style-type:none;
+  overflow: hidden;
+  background-color: #4A64E6;
+}
+
+.nal a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nal a:hover:not(.active) {
+  background-color: #4A21E6;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  
+  width: 250px;
+}
+
+
