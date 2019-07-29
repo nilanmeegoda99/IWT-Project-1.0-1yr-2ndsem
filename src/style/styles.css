@@ -46,6 +46,11 @@ th {
   margin: 0 auto;
   
 }
+#btntext
+{
+  text-align: center;	
+  margin: 0 auto;
+}
 .fot
 {
   text-align: center;	
@@ -94,5 +99,9 @@ th {
   
   width: 250px;
 }
-
+#myImg
+{
+  display: block;
+  margin: 0 auto;
+}
 
